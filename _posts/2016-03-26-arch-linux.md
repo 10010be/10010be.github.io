@@ -6,8 +6,10 @@ title: Arch Linux is Cool
 
 For most my life with computers I have either used Windows 7 or Linux. Windows was great but once I finally decided to try Ubuntu I never went back. I tried out all sorts of Linux distros (ie. Elementary OS, Crunchbang, Linux Mint) but none of them seemed right for me. After doing some searching around and I came to the conclusion that I had to attempt the unthinkable, Arch Linux.
 
-# About My Computer
+# 关于我的电脑
 *Hardware*: The PC I mainly use is a desktop that I built a few years back with a Intel Core i5, Nvidia GTX 650ti, and 8 GB of RAM.
+
+某君昆仲，今隐其名，皆余昔日在中学时良友；分隔多年，消息渐阙。日前偶闻其一大病；适归故乡，迂道往访，则仅晤一人，言病者其弟也。劳君远道来视，然已早愈，赴某地候补矣。因大笑，出示日记二册，谓可见当日病状，不妨献诸旧友。持归阅一过，知所患“迫害狂”之类。语颇错杂无伦次，又多荒唐之言；亦不着月日，惟墨色字体不一，知非一时所书。间亦有略具联络者，今撮录一篇，以供医家研究。记中语误，一字不易；惟人名虽皆村人，不为世间所知，无关大体，然亦悉易去。至于书名，则本人愈后所题，不复改也。七年四月二日识
 
 *Usage*: On my computer I mainly write code using a basic text-editor (i.e. atom or sublime text) and browse the web. I sometime play video games on Steam, which include Civ5 and Besiege.
 
