@@ -339,3 +339,19 @@ $ supervisorctl update
 
 除了使用supervisorctl还可以用，supervisor的web界面。
 
+
+
+{% highlight%}
+root@vultr:/etc# supervisord -c /etc/supervisord.conf
+Traceback (most recent call last):
+  File "/usr/local/bin/supervisord", line 5, in <module>
+    from pkg_resources import load_entry_point
+  File "/usr/lib/python2.7/dist-packages/pkg_resources.py", line 2707, in <module>
+    working_set.require(__requires__)
+  File "/usr/lib/python2.7/dist-packages/pkg_resources.py", line 686, in require
+    needed = self.resolve(parse_requirements(requirements))
+  File "/usr/lib/python2.7/dist-packages/pkg_resources.py", line 584, in resolve
+    raise DistributionNotFound(req)
+pkg_resources.DistributionNotFound: meld3>=0.6.5
+{% endhighlight %}
+
